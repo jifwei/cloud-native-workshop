@@ -735,3 +735,11 @@
 2017-03-29 16:41:45,974 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-03-29 16:41:45,987 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-29 16:41:45,987 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jifwei\cloud-native-workshop\12f_app\src\test\resources
+2017-03-30 10:31:34,981 [Worker-135] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.YOUR_USERNAME.config:config_server:1.0-SNAPSHOT @ C:\Users\jifwei\cloud-native-workshop\config_server\pom.xml.
+2017-03-30 10:31:35,079 [Worker-135] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config_server/src/main/java
+2017-03-30 10:31:35,079 [Worker-135] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config_server/src/test/java
+2017-03-30 10:31:35,143 [Worker-135] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-03-30 10:32:11,856 [Worker-141] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.YOUR_USERNAME.eureka:eureka_server:1.0-SNAPSHOT @ C:\Users\jifwei\cloud-native-workshop\eureka_server\pom.xml.
+2017-03-30 10:32:11,975 [Worker-141] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka_server/src/main/java
+2017-03-30 10:32:11,975 [Worker-141] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka_server/src/test/java
+2017-03-30 10:32:12,040 [Worker-141] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec

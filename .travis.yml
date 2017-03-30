@@ -2,6 +2,8 @@ language: java
 before_script: cd 12f_app
 script: mvn clean install
 deploy:
+  on:
+    all_branches: true
   edge: true
   provider: cloudfoundry
   username: jifa.wei@sas.com
