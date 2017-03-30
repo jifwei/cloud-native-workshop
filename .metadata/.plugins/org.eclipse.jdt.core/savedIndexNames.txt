@@ -7,7 +7,6 @@ INDEX VERSION 1.127+C:\Users\jifwei\cloud-native-workshop\.metadata\.plugins\org
 1143402309.index
 512326953.index
 1444142102.index
-2470315364.index
 4082236716.index
 515829942.index
 3914411027.index
