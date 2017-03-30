@@ -1,5 +1,5 @@
 applications:
-- name: 12fappsample
+- name: 12fappstaging
   path: target/12f_app-1.0-SNAPSHOT.jar
   memory: 512M
   services:
