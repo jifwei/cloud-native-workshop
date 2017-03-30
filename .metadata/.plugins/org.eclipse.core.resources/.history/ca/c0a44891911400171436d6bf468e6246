@@ -1,0 +1,7 @@
+package com.github.jifwei.app;
+@SpringBootApplication
+public class StockSpringBootStarter {
+    public static void main(String[] args) {
+        SpringApplication.run(StockSpringBootStarter.class, args);
+    }
+}

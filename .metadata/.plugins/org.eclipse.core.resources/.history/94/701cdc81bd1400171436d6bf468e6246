@@ -1,0 +1,13 @@
+package com.github.jifwei.app;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+public class EnvResource {
+	@RequestMapping(value = "/get-env", method = RequestMethod.GET)
+	public String getEnv(@RequestParam String env) {
+	    return "Env" + " " + environment.getProperty(env);
+	}
+	
+}

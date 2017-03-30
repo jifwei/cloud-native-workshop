@@ -1,0 +1,5 @@
+package com.github.jifwei.app;
+
+public class StockItemRepository {
+
+}
